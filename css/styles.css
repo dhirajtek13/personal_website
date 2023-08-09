@@ -29,6 +29,7 @@ p {
   line-height: 2;
 }
 
+
 hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
@@ -44,7 +45,9 @@ a{
 }
 
 a:hover {
-  color: #EAF6F6;
+  /* color: #EAF6F6; */
+  color: #053636;
+  font-style: italic;
 }
 
 .top-container {
